@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442714454511",
+    "project_id": "tsouq-6517a",
+    "storage_bucket": "tsouq-6517a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442714454511:android:23d3f987e3c39fa3311e1a",
+        "android_client_info": {
+          "package_name": "com.example.tsouq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442714454511-s9ib1g2e22g2sqvfb0aqteqn5broikev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVCN8D127WYmTNUDLWJuVnPVlHCUXvQ7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442714454511-s9ib1g2e22g2sqvfb0aqteqn5broikev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
